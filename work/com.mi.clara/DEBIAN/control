@@ -1,0 +1,13 @@
+Package: com.mi.clara
+Name: Clara
+Version: 3.3.2
+Architecture: iphoneos-arm
+Description: Clara is your new sexy LockScreen!
+Depiction: https://ocean.webjungle.ch/dep/clara.html
+SileoDepiction: https://ocean.webjungle.ch/dep/clara.js
+Homepage: 
+Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo, com.mi.clarakey
+Section: Tweaks
+Author: Luca Michelli <hello@lucamichelli.com>
+Maintainer: Luca Michelli <hello@lucamichelli.com>
+Icon: file:///var/mobile/Library/LockHTML/Clara/icon.png

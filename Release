@@ -1,0 +1,8 @@
+Origin: ocean
+Label: ocean
+Suite: stable
+Version: 1.2
+Codename: ocean
+Architectures: iphoneos-arm
+Components: main
+Description: ocean repo

@@ -1,0 +1,1 @@
+var PurchaseKey = "12738154631947"; // Enter your license key.

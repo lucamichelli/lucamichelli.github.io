@@ -1,0 +1,28 @@
+* {
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	font-feature-settings: "liga" 0
+}
+body {
+	display: flex;
+	height: 100vh;
+	background-color: rgba(72, 69, 69, 0.8);
+}
+.keyinfo {
+	padding-top: 20px;
+	padding-right: 10px;
+	text-align: left;
+}
+h1, h2 {
+	color: #fff;
+}
+p {
+	color: #fff;
+	font-weight: bold;
+	font-size: 1em;
+}
+.fas {
+	font-size: .8em;
+}
+
+
+

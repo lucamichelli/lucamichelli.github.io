@@ -1,0 +1,10 @@
+Package: com.mi.swisspublic
+Name: SwissPublicTransport
+Version: 0.1.1
+Architecture: iphoneos-arm
+Description: SwissPublicTransport is still in beta
+Homepage: 
+Depends: com.matchstic.xenhtml, com.mi.xenbasic, com.junesiphone.xeninfo
+Section: xenHTML
+Author: Luca Michelli <hello@lucamichelli.com>
+Maintainer: Luca Michelli <hello@lucamichelli.com>

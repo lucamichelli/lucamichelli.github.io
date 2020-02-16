@@ -1,0 +1,12 @@
+Package: com.mi.music
+Name: Music Widget (BETA)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Music Widget (BETA)
+Depiction: https://ocean.webjungle.ch/dep/music.html
+SileoDepiction: https://ocean.webjungle.ch/dep/music.js
+Homepage:
+Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo
+Section: Tweaks
+Author: Luca Michelli <hello@lucamichelli.com>
+Maintainer: Luca Michelli <hello@lucamichelli.com>

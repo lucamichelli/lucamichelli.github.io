@@ -1,0 +1,13 @@
+Package: com.mi.NoJelly
+Name: {NoJelly}
+Version: 2.0
+Architecture: iphoneos-arm
+Description: NoJelly makes your lockscreen great again!
+Depiction: http://lucamichelli.github.io/dep/nojelly.html
+SileoDepiction: http://lucamichelli.github.io/dep/nojellysileo.js
+Homepage: 
+Depends: com.matchstic.xenhtml, com.mi.xenbasic, com.junesiphone.xeninfo
+Section: Tweaks
+Author: Luca Michelli <hello@lucamichelli.com>
+Maintainer: Luca Michelli <hello@lucamichelli.com>
+Icon: file:///var/mobile/Library/LockHTML/NoJelly/icon.png

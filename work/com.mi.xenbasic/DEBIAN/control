@@ -1,0 +1,10 @@
+Package: com.mi.xenbasic
+Name: XenBasic
+Version: 0.1
+Architecture: iphoneos-arm
+Description: XenBasic for Michell's XenHTML Widgets
+Homepage: 
+Depends: com.matchstic.xenhtml
+Section: xenHTML
+Author: Luca Michelli <hello@lucamichelli.com>
+Maintainer: Luca Michelli <hello@lucamichelli.com>

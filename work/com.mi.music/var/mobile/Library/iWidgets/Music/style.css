@@ -1,0 +1,48 @@
+* {
+	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+	font-feature-settings: "liga" 0;
+}
+.coverthief {
+	width: 300px;
+	overflow: hidden;
+	margin: 0
+}
+.coverthief img {
+	display: block;
+	width: 100%;
+	margin: -100% -100%;
+	vertical-align: top
+}
+.colorthief {
+	width: 100px;
+	overflow: hidden;
+	margin: 0
+}
+.colorthief img {
+	display: block;
+	width: 100%;
+	margin: -100% -100%;
+	vertical-align: top
+}
+.container {
+	-webkit-animation: fadein 1s
+}
+
+#musicDiv {
+	font-size: .8em;
+	text-align: center;
+	color: #fff;
+}
+ #test {
+	 color: #fff;
+	 text-align: center;
+	 height: 200px;
+ }
+@-webkit-keyframes fadein {
+	from {
+		opacity: 0
+	}
+	to {
+		opacity: 1
+	}
+}

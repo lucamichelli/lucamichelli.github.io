@@ -1,0 +1,10 @@
+Package: com.mi.lovelock
+Name: LoveLock
+Version: 0.3.6
+Architecture: iphoneos-arm
+Description: LoveLock is still in beta
+Homepage: 
+Depends: com.matchstic.xenhtml, com.mi.xenbasic
+Section: xenHTML
+Author: Luca Michelli <hello@lucamichelli.com>
+Maintainer: Luca Michelli <hello@lucamichelli.com>

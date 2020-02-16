@@ -1,0 +1,13 @@
+Package: com.mi.clarakey
+Name: Clara Key Manager
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Clara
+Depiction: https://ocean.webjungle.ch/dep/clara.html
+SileoDepiction: https://ocean.webjungle.ch/dep/clara.js
+Homepage: 
+Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo, com.mi.clara
+Section: Tweaks
+Author: Luca Michelli <hello@lucamichelli.com>
+Maintainer: Luca Michelli <hello@lucamichelli.com>
+Icon: file:///var/mobile/Library/LockHTML/Clara/icon.png

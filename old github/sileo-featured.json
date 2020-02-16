@@ -1,0 +1,12 @@
+{
+	"class": "FeaturedBannersView",
+	"itemSize": "{263, 148}",
+	"itemCornerRadius": 10,
+	"banners": [{
+		"url": "https://lucamichelli.github.io/dep/img/nojelly/sileo/header.png",
+		"title": "{NoJelly}",
+		"package": "com.mi.NoJelly",
+		"hideShadow": false
+	},
+	]
+}

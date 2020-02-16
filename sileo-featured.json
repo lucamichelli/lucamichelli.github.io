@@ -1,0 +1,12 @@
+{
+	"class": "FeaturedBannersView",
+	"itemSize": "{173, 97}",
+	"itemCornerRadius": 10,
+	"banners": [{
+		"url": "https://ocean.webjungle.ch/dep/img/clara/sileo/claraheader.jpg",
+		"title": "Clara",
+		"package": "com.mi.clara",
+		"hideShadow": false
+	},
+	]
+}
