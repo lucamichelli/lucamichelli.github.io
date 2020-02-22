@@ -17,15 +17,15 @@ Name: {NoJelly}
 Sileodepiction: http://lucamichelli.github.io/dep/nojellysileo.js
 
 Package: com.mi.clara
-Version: 3.3.2
+Version: 3.3.3
 Architecture: iphoneos-arm
 Maintainer: Luca Michelli <hello@lucamichelli.com>
 Depends: com.matchstic.xenhtml, com.junesiphone.xeninfo, com.mi.clarakey
 Filename: ./debs/com.mi.clara.deb
-Size: 2262404
-MD5sum: c1548a1690359b6dc0f040f82fd2995e
-SHA1: 3962248c0f8f1a45641ad58ccc6b1b048a8fa563
-SHA256: 44560a8bf1eca9220fb5b5926a9b558470f77453b146f597a6d6351da75b1ad9
+Size: 2262508
+MD5sum: 64c385df5690bb3c3049b0b6abe712c9
+SHA1: 571c848d0b90c0ebd993a40d9f597edf7913ec59
+SHA256: 392ac634c0daa80282119d71fb28f696881e627104626278e061565b459e6a46
 Section: Tweaks
 Description: Clara is your new sexy LockScreen!
 Author: Luca Michelli <hello@lucamichelli.com>
