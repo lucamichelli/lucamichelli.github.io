@@ -1,8 +1,0 @@
-Origin: NoJelly
-Label: {NoJelly}
-Suite: stable
-Version: 3
-Codename: lucamichelli
-Architectures: iphoneos-arm
-Components: main
-Description: By Luca Michelli
